@@ -1,1 +1,1 @@
-# AiEcg
+# CaptureEcg
